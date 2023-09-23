@@ -14,7 +14,3 @@
 - [Vuex store rules](https://gist.github.com/stembrino/773a9e964a528b4d8799f541a451654b#file-vuex-store-bundle-md)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stembrino&layout=compact&hide=html" alt="peterhassaballah" />
-
-### Work profile
-[fabiofcs](https://github.com/fabiofcs)
-
