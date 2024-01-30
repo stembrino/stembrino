@@ -2,6 +2,9 @@
 
 ### What do you think about coding?
 > Coding is not about only solving complex problems. It's about solving problems according to clean code standards, making it easier to read and maintain/refactor, and ensuring the success rate with effective tests.
+>
+
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=stembrino&show_icons=true&locale=en&theme=bear" alt="fabio" /></p>
 
 <img alt="logo-stackoverflow" src="https://github.com/stembrino/stembrino/assets/39069413/aaf8f02f-9d9f-4ae8-84fc-20383e6b8d89" width="150">
 
