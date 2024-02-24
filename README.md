@@ -15,5 +15,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stembrino&layout=compact&hide=html" alt="peterhassaballah" />
 
-[![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=stembrino&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!---
+ [![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=stembrino&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ --->
 
