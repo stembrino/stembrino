@@ -1,4 +1,4 @@
-# 🐙
+# 🐈‍⬛
 
 <img alt="logo-stackoverflow" src="https://github.com/stembrino/stembrino/assets/39069413/aaf8f02f-9d9f-4ae8-84fc-20383e6b8d89" width="150">
 
